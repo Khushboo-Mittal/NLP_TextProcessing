@@ -87,6 +87,6 @@ The model achieves an accuracy of 78% on the test set, with individual scores fo
 |------------------|-------------------------------------------------------------|
 | **Khushboo Mittal**       | Data Loading and Cleaning, Tokenization, Stopwords Removal, Stemming and Lemmatization|
 | **Tanisha Priya**                | Count Vectorization and TF-IDF Vectorization|
-| **Prachi Tavse**                |Word2Vec Vectorization|
+| **Prachi Tavse**                |Word2Vec Embeddings, Word2Vec Sentence Vetorization|
 | **Harshita Jangde**                | Load GloVe Embeddings, Sentence Vectorization, Embedding Application, Model Training and Evaluation|
 
