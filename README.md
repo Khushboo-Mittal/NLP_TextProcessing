@@ -88,5 +88,5 @@ The model achieves an accuracy of 78% on the test set, with individual scores fo
 | **Khushboo Mittal**       | Data Loading and Cleaning, Tokenization, Stopwords Removal, Stemming and Lemmatization|
 | **Tanisha Priya**                | --                                    |
 | **Prachi Tavse**                | --                   |
-| **Harshita Jangde**                | --                   |
+| **Harshita Jangde**                | Load GloVe Embeddings, Sentence Vectorization, Embedding Application, Model Training and Evaluation|
 
